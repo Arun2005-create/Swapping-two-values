@@ -30,7 +30,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-!["Output"](/two%20values.png)
+![two values](https://github.com/Arun2005-create/Swapping-two-values/assets/138849356/a2373419-386c-439a-937e-1e5be671ee3d)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
